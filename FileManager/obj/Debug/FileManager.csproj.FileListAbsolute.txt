@@ -1,0 +1,8 @@
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\FileManager\bin\Debug\FileManager.exe
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\FileManager\bin\Debug\FileManager.pdb
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\FileManager\bin\Debug\CommandLineParser.exe
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\FileManager\bin\Debug\CommandLineParser.pdb
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\FileManager\obj\Debug\FileManager.exe
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\FileManager\obj\Debug\FileManager.pdb

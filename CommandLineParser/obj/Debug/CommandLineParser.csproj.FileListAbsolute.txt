@@ -1,0 +1,5 @@
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CommandLineParser\bin\Debug\CommandLineParser.exe.config
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CommandLineParser\bin\Debug\CommandLineParser.exe
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CommandLineParser\bin\Debug\CommandLineParser.pdb
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CommandLineParser\obj\Debug\CommandLineParser.exe
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CommandLineParser\obj\Debug\CommandLineParser.pdb
